@@ -13,10 +13,3 @@ Persian recipe mobile application with React Native cli
 #### To run this project, install it locally using npm:
 - $ npm install
 - $ npm android
-- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
