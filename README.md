@@ -2,7 +2,7 @@
 ## General info
 Persian recipe mobile application with React Native cli
 ## Technologies 
-![#1589F0] Project is created with: `#1589F0`
+- ![#1589F0] Project is created with: `#1589F0`
 - [x] React Native
 - [x] React Native navigation
 - [x] React Native Elements
