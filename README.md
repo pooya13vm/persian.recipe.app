@@ -2,8 +2,8 @@
 ## General info
 Persian recipe mobile application with React Native cli
 ## Technologies
-#### Project is created with:
-#### React Native
+_ Project is created with:
+_ React Native
 #### React Native navigation
 #### React Native Elements
 #### React Native async storage
