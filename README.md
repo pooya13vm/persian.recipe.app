@@ -10,5 +10,5 @@ Persian recipe mobile application with React Native cli
 - [x] React Native Reanimated
 ## Setup
 #### To run this project, install it locally using npm:
-- [x] $ npm install
-- [x] $ npm android
+- $ npm install
+- $ npm android
