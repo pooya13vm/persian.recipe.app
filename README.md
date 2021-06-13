@@ -2,7 +2,7 @@
 ## General info
 Persian recipe mobile application with React Native cli
 ## Technologies 
-```diff
+```sh
 + Project is created with:
 ```
 - [x] React Native
