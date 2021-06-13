@@ -1,8 +1,8 @@
 # Persian recipe mobile application
 ## General info
-<dl>
-  <dt style="color:white; background-color:gray;text-align:center;border-radius:15px">Persian recipe mobile application with React Native cli</dt>
- </dl>
+
+  Persian recipe mobile application with React Native cli
+
 ## Technologies 
 > Project is created with:
 - [x] React Native
