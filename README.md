@@ -3,11 +3,8 @@
 <dl>
   <dt style="color:white; background-color:gray;text-align:center;border-radius:15px">Persian recipe mobile application with React Native cli</dt>
  </dl>
-
 ## Technologies 
-
 > Project is created with:
-
 - [x] React Native
 - [x] React Native navigation
 - [x] React Native Elements
