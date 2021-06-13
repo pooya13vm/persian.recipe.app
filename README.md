@@ -3,12 +3,12 @@
 Persian recipe mobile application with React Native cli
 ## Technologies
 ### Project is created with:
-- [x] * React Native
-#### React Native navigation
-#### React Native Elements
-#### React Native async storage
-#### React Native Reanimated
+- [x] React Native
+- [x] React Native navigation
+- [x] React Native Elements
+- [x] React Native async storage
+- [x] React Native Reanimated
 ## Setup
 #### To run this project, install it locally using npm:
-#### $ npm install
-#### $ npm android
+- [x] $ npm install
+- [x] $ npm android
