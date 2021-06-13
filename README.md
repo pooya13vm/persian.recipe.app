@@ -1,4 +1,4 @@
-#* Persian recipe mobile application
+# Persian recipe mobile application
 ## General info
 Persian recipe mobile application with React Native cli
 ## Technologies
